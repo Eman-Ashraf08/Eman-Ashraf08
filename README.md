@@ -11,9 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/eman-ashraf-a535732bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eman ashraf" height="30" width="40" /></a>
-<a href="https://instagram.com/efpa_emi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efpaemi" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Hj0vFm8kli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eman ashraf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Eman Ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eman ashraf" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/efpa-emi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="efpa-emi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Eman Ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eman ashraf" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/WQcN5VEy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WQcN5VEy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
